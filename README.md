@@ -304,14 +304,3 @@ This project supports the following resume statements:
 > - Designed an end-to-end ETL pipeline using Python and Pandas to extract, clean, transform, and load 10,000+ raw e-commerce records into a PostgreSQL database, reducing data quality issues by 95%.
 > - Performed data analysis using 10 SQL queries to identify sales trends, customer lifetime value, and product performance across 10 categories, visualized through Matplotlib and Seaborn dashboards.
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  Built with ❤️ for learning Data Engineering
-</p>
